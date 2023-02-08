@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Handbrake disk image and creates a package.</string>
     <key>Identifier</key>
-    <string>at.42bit.autopkg.pkg.handbrake</string>
+    <string>com.42bit.autopkg.pkg.handbrake</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>at.42bit.autopkg.download.handbrake</string>
+    <string>com.42bit.autopkg.download.handbrake</string>
     <key>Process</key>
     <array>
         <dict>
